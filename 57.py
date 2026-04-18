@@ -6,3 +6,5 @@ def sum_digits(n):
         n //= 10
     return yigindi
 print(sum_digits(123))
+
+#91 275 51 77 
